@@ -1,6 +1,3 @@
-# deep_learning_projects_for_kids
-
-
 # 🧠 Deep Learning Toy Problems
 
 A collection of small, interesting problems to practice building deep neural networks from scratch (no CNNs, RNNs, or transformers).
